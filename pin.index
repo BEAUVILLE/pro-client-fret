@@ -104,7 +104,7 @@
   // =========================
   // ✅ À RÉGLER PAR MODULE
   // =========================
-  const MODULE_CODE="pro_driver";
+  const MODULE_CODE="fret_client_pro";
 const NEXT_URL="courses.html";
 
   // =========================
